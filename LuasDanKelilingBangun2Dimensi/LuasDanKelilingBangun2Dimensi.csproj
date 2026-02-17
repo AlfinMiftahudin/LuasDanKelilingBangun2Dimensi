@@ -50,6 +50,7 @@
     <Compile Include="Shapes\Persegi.cs" />
     <Compile Include="Shapes\PersegiPanjang.cs" />
     <Compile Include="Shapes\Segitiga.cs" />
+    <Compile Include="Shapes\Trapesium.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
